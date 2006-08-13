@@ -3,9 +3,9 @@
  * @author Srikumar K. S. (srikumarks *at* mac *dot* com)
  * @date 29 July 2006
  *
- * Copyright 2006 (c) Srikumar K. S.
+ * Joint copyright 2006 (c) Srikumar K. S. and muvee Technologies Pte. Ltd.
  * This source code is licensed to the public by the copyright
- * holder stated above under the terms of the Artistic License 
+ * holders stated above under the terms of the Artistic License 
  * as described in -
  * http://www.opensource.org/licenses/artistic-license.php
  *
